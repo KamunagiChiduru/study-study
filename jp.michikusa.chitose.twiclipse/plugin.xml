@@ -5,15 +5,15 @@
    <extension
          point="org.eclipse.ui.views">
       <category
-            name="Sample Category"
+            name="Multi Media"
             id="jp.co.michikusa.chitose.twiclipse">
       </category>
       <view
-            name="Sample View"
+            name="Twiclipse"
             icon="icons/sample.gif"
             category="jp.co.michikusa.chitose.twiclipse"
             class="jp.co.michikusa.chitose.twiclipse.views.TwiclipseView"
-            id="jp.co.michikusa.chitose.twiclipse.views.SampleView">
+            id="jp.co.michikusa.chitose.twiclipse.views.TwiclipseView">
       </view>
    </extension>
    <extension
